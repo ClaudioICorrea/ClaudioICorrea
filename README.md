@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ClaudioICorrea I am math ingineer 
 - 👀 I’m interested in math, new tegnologys and the progaming 
-- 🌱 I’m currently learning  analysis math MEF, GDG other  of course 
+- 🌱 I’m currently learning  MEF, GDG and other  of course 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
